@@ -20,4 +20,5 @@ Este trabalho foi realizado para um desafio do Kaggle, patrocinado pela NVIDIA, 
 <!-- ![Minha Foto de Perfil](https://avatars.githubusercontent.com/u/65470846?v=4) -->
 
 <img src="https://avatars.githubusercontent.com/u/65470846?v=4" alt="Minha Foto de Perfil" width="150"/>
-[Jefferson Rafael](https://www.github.com/jeffersonrafael)
+
+[Jefferson Rafael](https://github.com/jeffersonrafael)
