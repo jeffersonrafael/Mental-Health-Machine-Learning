@@ -15,3 +15,6 @@ Este trabalho foi realizado para um desafio do Kaggle, patrocinado pela NVIDIA, 
 
 
 ## Modelo
+
+## Contribuidores
+@jeffersonrafael
