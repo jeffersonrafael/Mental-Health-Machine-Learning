@@ -17,4 +17,4 @@ Este trabalho foi realizado para um desafio do Kaggle, patrocinado pela NVIDIA, 
 ## Modelo
 
 ## Contribuidores
-@jeffersonrafael
+![Minha Foto de Perfil](https://avatars.githubusercontent.com/u/65470846?v=4)
